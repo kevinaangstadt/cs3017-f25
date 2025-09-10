@@ -42,6 +42,8 @@ We can add emphasis to text with *asterisks* to create italics or **bold** text 
 # Example Image
 ![Many trees in a forest](trees.jpg)
 
+![View of trees from above](trees2.jpg)
+
 
 
 
